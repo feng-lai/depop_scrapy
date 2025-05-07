@@ -60,3 +60,5 @@ The final JSON includes:
 - Chrome browser
 
 Note: The script includes robust error handling that provides default values when data isn't found, ensuring it completes execution even if some elements are missing from the page.
+
+
