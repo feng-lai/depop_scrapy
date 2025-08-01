@@ -1,3 +1,4 @@
+[English](README.md) | [العربية](README-ar.md) | [Português](README-pt.md) | [Español](README-es.md)
 # Depop Product Scraper
 
 ## Overview
